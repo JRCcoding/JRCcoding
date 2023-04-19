@@ -1,4 +1,11 @@
-<!-- # Hi there 👋 -->
+# Hi there 👋 
+Thanks for viewing my GitHub profile. 
+I hope you are here so we can connect! 
+Please check out my code and contact me for anything.
+
+Current contact information to the left ⬅️ or if on desktop it's above ⬆️!
+
+
 
 
 

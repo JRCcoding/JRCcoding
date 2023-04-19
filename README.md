@@ -7,9 +7,13 @@ I hope you are here so we can connect!
 Please check out my code and contact me for anything.
 
 
+
 Current contact information:
 
+
 (432)425-2593
+
+
 jrccode@outlook.com
 
 

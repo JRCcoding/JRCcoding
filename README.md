@@ -1,17 +1,23 @@
-# Hi there 👋 
+# Howdy 👋 
 
 Thanks for viewing my GitHub profile. 
 
 I hope you are here so we can connect! 
 
-Please check out my code and contact me for anything.
+I am a software engineer, web developer, and father from Texas. I enjoy learning how things work. My favorite color is #77daa5. 
 
+Please check out my code and contact me for anything. I love collaboration and look forward to hearing from you!
+
+
+
+
+<hr />
 
 
 Current contact information:
 
 
-(432)425-2593
+(432) 425-2593
 
 
 jrccode@outlook.com

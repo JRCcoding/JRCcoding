@@ -17,10 +17,10 @@ Please check out my code and contact me for anything. I love collaboration and l
 Current contact information:
 
 
-(432) 425-2593
+📱 (432) 425-2593
 
 
-jrccode@outlook.com
+📧 jrccode@outlook.com
 
 
 

@@ -1,5 +1,4 @@
-# Howdy 👋 
-<hr />
+# Howdy 👋
 Thanks for viewing my GitHub profile. 
 
 I hope you are here so we can connect! 
